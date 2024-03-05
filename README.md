@@ -64,6 +64,8 @@ To execute the compiled Java program, use the `java` command followed by the nam
     java filename
     ```
 
+![](image.png)
+
 ## Contributing
 
 Contributions to this repository are welcome! If you'd like to contribute, please follow these steps:
