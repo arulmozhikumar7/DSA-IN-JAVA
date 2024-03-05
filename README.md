@@ -53,16 +53,16 @@ After installing Java JDK, you need to set up the environment variables. Follow 
     ```
 
 To compile a Java source file (e.g., `filename.java`), use the `javac` command:
-`    javac filename.java
-   `
+
+```javac filename.java
+
+```
 
 To execute the compiled Java program, use the `java` command followed by the name of the class containing the `main` method (e.g., `filename` without the `.class` extension):
 
     ```
     java filename
     ```
-
-![Alt text](image.png)
 
 ## Contributing
 
