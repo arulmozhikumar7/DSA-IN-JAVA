@@ -18,9 +18,9 @@ Each implementation includes comments to explain the underlying concepts behind 
 
 To use this repository, simply clone it to your local machine:
 
+```
 git clone https://github.com/arulmozhikumar7/DSA-IN-JAVA.git
-
-.
+```
 
 ## Execution
 
